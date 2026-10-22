@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_Mon_Florazor
+  m_Controller: {fileID: 9100000, guid: 94fb509a6d31a044c9bdb057d4c364ee, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e4ee4e40e384df44da68fa95d5039bbd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9d4657633d44c7f4cbdaceff0837ffd5, type: 2}

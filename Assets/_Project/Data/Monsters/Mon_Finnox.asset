@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: add9e63af66aca8438f93758d6ca4e4d, type: 3}
+  m_Name: Mon_Finnox
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_005
+  displayName: Finnox
+  element: 1
+  frames:
+  - {fileID: 628506444, guid: 9b2bb9ae7bad02049a2d1006e9510743, type: 3}
+  - {fileID: 1836733404, guid: 9b2bb9ae7bad02049a2d1006e9510743, type: 3}
+  - {fileID: -865965185, guid: 9b2bb9ae7bad02049a2d1006e9510743, type: 3}
+  - {fileID: 630016014, guid: 9b2bb9ae7bad02049a2d1006e9510743, type: 3}
+  baseHP: 86
+  baseATK: 18
+  baseDEF: 21
+  baseSPD: 14
+  skillName: Tembakan Air
+  evolvesTo: {fileID: 11400000, guid: 49de786ccdb297f42a061fb90ef16817, type: 2}
+  evolveLevel: 9
